@@ -1,5 +1,5 @@
 
-# Hi this is Argee aka Disargee
+# Hi this is Arji aka Disargee
 
 Always striving to be better. I am declaring that in this lifetime, i will attain success. 
 
