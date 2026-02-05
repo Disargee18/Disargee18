@@ -1,18 +1,9 @@
 
 # Hi this is Arji aka Disargee
 
-Always striving to be better. I am declaring that in this lifetime, i will attain success. 
+Just trying....
 
 <I like music, dogs, bass, philosophy, and cool things>
-
-###
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-website-pi-rust-77.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/disargee/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aboy.paqs)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/arjinomoto__)
 
 ##
 <div>
