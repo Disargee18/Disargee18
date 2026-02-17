@@ -1,6 +1,6 @@
-<h1 align="center">Hi this is Arji aka Disargee</h1>
+<h1 align="center">Hi this is Arji</h1>
 
-<p align="center">just trying....</p>
+<p align="center">through him anything is possible</p>
 
 ##
 <div align="center">
