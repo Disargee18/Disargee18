@@ -1,5 +1,6 @@
-<h3 align="center">Hi this is Arji</h3>
+#Hi this is Arji
 
+</hr>
 <p align="center">through him anything is possible</p>
 
 ##
