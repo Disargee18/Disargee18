@@ -3,7 +3,7 @@
 I'm a builder and a communicator, constantly bridging the gap between technical logic and great ideas.
 
 ### About Me
-* 🎓 **Education:** 3rd Year BSIT Student
+* 🎓 **Education:** 4th Year BSIT Student
 * 💡 **Mindset:** Always daydreaming about the next big startup
 * 🗣️ **Best Asset:** My ability to speak, present, and communicate my thoughts
 * 🚀 **Goal:** Becoming a high-impact software developer (with a future 800k salary!)
